@@ -14,3 +14,4 @@
 #predecessor
 #coefficient
 #exploration
+#collision
